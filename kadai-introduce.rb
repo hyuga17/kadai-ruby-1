@@ -1,5 +1,5 @@
 name1 = '西脇'
-name2 = '飛雅です。'
-age = '２２歳です。'
-name = name1 + name2 + age
+name2 = '飛雅'
+age = '２２'
+name = name1 + name2 + 'です。' + age + 'です。'
 puts name 
