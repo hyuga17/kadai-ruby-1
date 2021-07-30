@@ -1,4 +1,4 @@
-name = [ '西脇' , '飛雅' ]
+name1 = '西脇'
+name2 = '飛雅'
 age = 22
-name = name [0] + name [1] + 'です。' + age.to_s + '歳です。'
-puts name
+puts name = name1 + name2 + '歳です。' + age.to_s + '歳です。'
